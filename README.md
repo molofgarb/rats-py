@@ -1,4 +1,4 @@
-# rats-py.github.io
+# rats-py
 an old python project I for my sophmore year spring Intro to CS final project
 
 It will not run on GitHub pages--it has dynamic content.
